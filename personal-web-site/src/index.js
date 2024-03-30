@@ -6,6 +6,7 @@ import './NavBar.css';
 import NavBar from './NavBar';
 import GreetingPage from './Greeting';
 import reportWebVitals from './reportWebVitals';
+import Education from './Education';
 
 
 
@@ -14,6 +15,7 @@ root.render(
   <React.StrictMode>
     <NavBar />
     <GreetingPage />
+    <Education />
   </React.StrictMode>
 );
 

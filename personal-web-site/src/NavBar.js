@@ -14,7 +14,7 @@ function NavBar()
           <img className="self-center w-8 h-8 rounded-full mx-2" src={ logo } alt="Logo" />
         </div>
         <ul className="nav-links">
-          <li><a href="/">About me</a></li>
+          <li><a href="/src/Greeting.js">About me</a></li>
           <li><a href="/">Education</a></li>
           <li><a href="/">Skills</a></li>
           <li><a href="/">Experience</a></li>

@@ -115,7 +115,9 @@ function GreetingPage()
   return (
     <div ref={ containerRef } className="greeting-page">
       <div className="greeting-card">
-        <h1> Hi There! I'm Hengyi Li, a Computer enthusiast</h1>
+        <p className='GreetingP'> <b>👋 Hi there, this is Miles Lee, </b> a passionate Computer Science graduate student at the University of California - Davis.</p>
+        <br />
+        <i>With a solid academic foundation from Truman State University, where I majored in Computer Science, I have honed my skills in a diverse range of programming languages and technologies.</i>
       </div>
     </div>
   );

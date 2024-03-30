@@ -36,12 +36,8 @@
   color: #ccc; /* Change link color on hover as needed */
 }
 
-.main p{
-  color: #ccc;
-}
-
-.greeting-page {
-  position: relative;
+p {
+  color: #fff; /* Change text color as needed */
 }
 
 .greeting-card {
@@ -52,4 +48,16 @@
   padding: 20px;
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 10px;
+}
+
+.GreetingP {
+  color: #000;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Education {
+  color: #fff;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
